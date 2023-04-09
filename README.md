@@ -14,5 +14,8 @@ Extras:
 Como funcionam os termos de uso do Linkedin em relação a automação;
 Performance deste código com base na quantidade de contatos extraídos
 
-Explicação e execução da aplicação do projeto
+Explicação e execução da aplicação do projeto: 
 [![Watch the video](https://img.youtube.com/vi/o8SVdtvOiiMA/maxresdefault.jpg)](https://youtu.be/o8SVdtvOiiM)
+
+Resultado gerado e exibição do código do projeto: 
+[![Watch the video](https://img.youtube.com/vi/y7tHR6hqezE/maxresdefault.jpg)](https://youtu.be/y7tHR6hqezE)
